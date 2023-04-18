@@ -28,6 +28,8 @@ Here are some ideas to get you started
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush9310&show_icons=true&layout=compact&theme=vue)](https://github.com/Ankush9310/github-readme-stats)
 
+<img src="https://img.shields.io/badge/Kotlin-303030?style=for-the-badge&logo=kotlin" alt="kotlin"> <img src="https://img.shields.io/badge/Java-303030?style=for-the-badge&logo=Java" alt="Java">
+
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaudharyankush9310@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankush-chaudhary-9310a/")
 [![](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ankush.chaudhary.93/)
