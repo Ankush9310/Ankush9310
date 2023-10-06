@@ -17,7 +17,7 @@ Here are some ideas to get you started
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="350" height="240" />
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400" height="300" />
 
 - 🔭 I’m currently working on a Personal Project.
 - 🤔 I’m looking for something new to explore.
