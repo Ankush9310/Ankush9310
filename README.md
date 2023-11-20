@@ -1,8 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=What's%20Up?&animation=twinkling&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey!%20How%20you%20doin?&animation=twinkling&fontSize=40)
 
 ## About me ->
 ### Hi there 👋 Welcome!
-
 <!--
 **Ankush9310/Ankush9310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,12 +24,14 @@ Here are some ideas to get you started
 - 🤔 I’m looking for something new to explore.
 - 💬 Ask me about anything you want.
 - 📫 How to reach me: [here](mailto:chaudharyankush9310@gmail.com)
-- 🧙‍♂️ Currently working on Advance Android skills and Flutter.
+- 🧙‍♂️ Currently working on advance Android skills and Flutter.
 - 👨‍💻 Mostly working on Android, Kotlin,  and RoomDB!
-- 🎨 Fun Fact: Being hydrated increases my productivity.
+- 🎨 Fun Fact: Being hydrated increases the productivity.
 - 🌱 Your eyes, your best tool, take care of them
-- 👯 And Many More...
 
+<!--
+- 👯 And Many More...
+-->
 
 
 |<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankush9310&&theme=highcontrast&&show_icons=true"/>|<img src="https://github-readme-stats.vercel.app/api?username=Ankush9310&&theme=highcontrast&&show_icons=true&&hide_border=false&&count_private=true&include_all_commits=true"/>|
